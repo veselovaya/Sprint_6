@@ -1,4 +1,3 @@
-from selenium.webdriver.common.by import By
 from page_objects.main_page import MainPage
 from locators.main_page_locators import MainPageLocators
 import allure
